@@ -3,7 +3,7 @@ import {Button} from './components/buttons'
 function App() {
   return (
     <div>
-      <Button text="Clique nessa bosta aqui"/>
+      <Button text="Clique aqui"/>
       <Button />
       <Button />
       <Button />
